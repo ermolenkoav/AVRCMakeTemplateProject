@@ -1,0 +1,4 @@
+#pragma once
+
+#define XXX_STR_HELPER_XXX(x) #x
+#define XXX_STR_XXX(x) XXX_STR_HELPER_XXX(x)
